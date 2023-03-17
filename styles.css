@@ -1,2 +1,36 @@
 
 /* Your CSS Code here. */
+.items1{
+	width:200px;
+	height:200px;
+	background-color:green;
+   font-size:40px;
+
+}
+.items2{
+	width:200px;
+	height:200px;
+  background-color:red;
+
+ font-size:40px;
+}
+.items3{
+	width:200px;
+	height:200px;
+ background-color:blue;
+ font-size:40px;
+
+
+}
+
+.holder{
+
+display:flex;
+flex-direction:row;
+justify-content:nowrap;
+
+
+}
+
+
+
